@@ -1,0 +1,22 @@
+{
+    "name": "dyson-generators",
+    "version": "0.1.0",
+    "description": "Fake data generators for dyson",
+    "keywords": ["dyson", "fake", "dummy", "JSON", "image"],
+    "author": {
+        "name": "Lars Kappert",
+        "email": "lars@webpro.nl"
+    },
+    "dependencies": {
+        "lodash": "~0.10",
+        "when": "~1.7",
+        "dyson-image": "~0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/webpro/dyson-generators"
+    },
+    "engines": {
+        "node": "0.8.x"
+    }
+}
