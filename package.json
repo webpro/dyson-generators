@@ -1,23 +1,19 @@
 {
-    "name": "dyson-generators",
-    "version": "0.1.1",
-    "description": "Fake data generators for dyson",
-    "keywords": ["JSON", "data", "dynamic", "dummy", "fake", "response", "server", "API", "REST", "generator", "image"],
-    "author": {
-        "name": "Lars Kappert",
-        "email": "lars@webpro.nl"
-    },
-    "dependencies": {
-        "lodash": "~1.3.1",
-        "when": "~2.2.1",
-        "dyson-image": "~0.1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/webpro/dyson-generators"
-    },
-    "engines": {
-        "node": "0.8.x"
-    },
-    "license": "MIT"
+  "name": "dyson-generators",
+  "version": "0.1.1",
+  "description": "Fake data generators for dyson",
+  "keywords": ["JSON", "data", "dynamic", "dummy", "fake", "response", "server", "API", "REST", "generator", "image"],
+  "author": {
+    "name": "Lars Kappert",
+    "email": "lars@webpro.nl"
+  },
+  "dependencies": {
+    "dyson-image": "^0.1.3",
+    "lodash": "^4.17.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webpro/dyson-generators"
+  },
+  "license": "MIT"
 }
