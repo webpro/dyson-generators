@@ -1,8 +1,20 @@
 {
   "name": "dyson-generators",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Fake data generators for dyson",
-  "keywords": ["JSON", "data", "dynamic", "dummy", "fake", "response", "server", "API", "REST", "generator", "image"],
+  "keywords": [
+    "JSON",
+    "data",
+    "dynamic",
+    "dummy",
+    "fake",
+    "response",
+    "server",
+    "API",
+    "REST",
+    "generator",
+    "image"
+  ],
   "author": {
     "name": "Lars Kappert",
     "email": "lars@webpro.nl"
